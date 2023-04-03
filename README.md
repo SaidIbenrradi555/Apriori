@@ -1,7 +1,4 @@
-RL
-K-means
-CAH 
-Arbre de décision
+
 
 
 
